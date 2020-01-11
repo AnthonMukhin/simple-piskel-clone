@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9825fe668de17ca2f7e443cb76aef40f",
+    "revision": "2163c882cf61ca226b7d6d83f1987b1d",
     "url": "/simple-piskel-clone/index.html"
   },
   {
-    "revision": "6f3cd54c1bea4a59b54e",
-    "url": "/simple-piskel-clone/static/css/main.f6f1ad23.chunk.css"
+    "revision": "2c121ae8c5017bc869e6",
+    "url": "/simple-piskel-clone/static/css/main.0a2ce77f.chunk.css"
   },
   {
-    "revision": "33f27135997a409500c4",
-    "url": "/simple-piskel-clone/static/js/2.0f43a923.chunk.js"
+    "revision": "c0adcc06a379c2299eba",
+    "url": "/simple-piskel-clone/static/js/2.9645ded3.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/simple-piskel-clone/static/js/2.0f43a923.chunk.js.LICENSE"
+    "url": "/simple-piskel-clone/static/js/2.9645ded3.chunk.js.LICENSE"
   },
   {
-    "revision": "6f3cd54c1bea4a59b54e",
-    "url": "/simple-piskel-clone/static/js/main.70e04b1e.chunk.js"
+    "revision": "2c121ae8c5017bc869e6",
+    "url": "/simple-piskel-clone/static/js/main.05a83a6f.chunk.js"
   },
   {
     "revision": "c3aae41edefcf4a83682",

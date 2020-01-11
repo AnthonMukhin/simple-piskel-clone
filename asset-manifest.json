@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/simple-piskel-clone/static/css/main.f6f1ad23.chunk.css",
-    "main.js": "/simple-piskel-clone/static/js/main.70e04b1e.chunk.js",
-    "main.js.map": "/simple-piskel-clone/static/js/main.70e04b1e.chunk.js.map",
+    "main.css": "/simple-piskel-clone/static/css/main.0a2ce77f.chunk.css",
+    "main.js": "/simple-piskel-clone/static/js/main.05a83a6f.chunk.js",
+    "main.js.map": "/simple-piskel-clone/static/js/main.05a83a6f.chunk.js.map",
     "runtime-main.js": "/simple-piskel-clone/static/js/runtime-main.f273a5b4.js",
     "runtime-main.js.map": "/simple-piskel-clone/static/js/runtime-main.f273a5b4.js.map",
-    "static/js/2.0f43a923.chunk.js": "/simple-piskel-clone/static/js/2.0f43a923.chunk.js",
-    "static/js/2.0f43a923.chunk.js.map": "/simple-piskel-clone/static/js/2.0f43a923.chunk.js.map",
+    "static/js/2.9645ded3.chunk.js": "/simple-piskel-clone/static/js/2.9645ded3.chunk.js",
+    "static/js/2.9645ded3.chunk.js.map": "/simple-piskel-clone/static/js/2.9645ded3.chunk.js.map",
     "index.html": "/simple-piskel-clone/index.html",
-    "precache-manifest.28410fed29abd22d1ac92b3261769fb5.js": "/simple-piskel-clone/precache-manifest.28410fed29abd22d1ac92b3261769fb5.js",
+    "precache-manifest.13b5724ef95c3693d9c9b086b89df532.js": "/simple-piskel-clone/precache-manifest.13b5724ef95c3693d9c9b086b89df532.js",
     "service-worker.js": "/simple-piskel-clone/service-worker.js",
-    "static/css/main.f6f1ad23.chunk.css.map": "/simple-piskel-clone/static/css/main.f6f1ad23.chunk.css.map",
-    "static/js/2.0f43a923.chunk.js.LICENSE": "/simple-piskel-clone/static/js/2.0f43a923.chunk.js.LICENSE",
+    "static/css/main.0a2ce77f.chunk.css.map": "/simple-piskel-clone/static/css/main.0a2ce77f.chunk.css.map",
+    "static/js/2.9645ded3.chunk.js.LICENSE": "/simple-piskel-clone/static/js/2.9645ded3.chunk.js.LICENSE",
     "static/media/animation1.gif": "/simple-piskel-clone/static/media/animation1.c8d39763.gif",
     "static/media/animation2.gif": "/simple-piskel-clone/static/media/animation2.858d709c.gif",
     "static/media/animation3.gif": "/simple-piskel-clone/static/media/animation3.0e6b19d8.gif",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f273a5b4.js",
-    "static/js/2.0f43a923.chunk.js",
-    "static/css/main.f6f1ad23.chunk.css",
-    "static/js/main.70e04b1e.chunk.js"
+    "static/js/2.9645ded3.chunk.js",
+    "static/css/main.0a2ce77f.chunk.css",
+    "static/js/main.05a83a6f.chunk.js"
   ]
 }
